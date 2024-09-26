@@ -1,11 +1,11 @@
-package main
+package tester
 
 import(
-	"example.com/practice"
+	// "example.com/practice"
 
 )
 
 
-func main(){
-	practice.Test()
-}
+// func main(){
+// 	practice.Test()
+// }
